@@ -10,7 +10,8 @@
  #include <stdlib.h>
  int main(int argc, char **argv) {
 
-     printf("Kaden Grabenstein\n");
+     printf("Kaden Grabenstein!\n");
+     printf("Computer Science\n");
 
      return 0;
  }
