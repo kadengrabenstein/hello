@@ -12,6 +12,8 @@
 
      printf("Kaden Grabenstein!\n");
      printf("Computer Science\n");
+     printf("Anthony Vinton\n");
+     printf("Computer Engineering\n");
 
      return 0;
  }
